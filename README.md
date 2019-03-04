@@ -2,7 +2,7 @@
 Pytorch implementation for the paper Ancient Painting to Natural Image: A New Solution for Painting Processing.
 ## Code 
 
-coming soon.
+Coming soon.
 
 ## Dataset
 
