@@ -1,6 +1,7 @@
 # AncientPainitng2NaturalImage
 Pytorch implementation for the paper [[Ancient Painting to Natural Image: A New Solution for Painting Processing]](https://arxiv.org/pdf/1901.00224.pdf) .
 
+<img src="https://github.com/qiaott/AncientPainitng2NaturalImage/images/example.jpg" width="800"/>
 ## Getting Started
 ### Installation
 - Install PyTorch and dependencies from http://pytorch.org
@@ -35,6 +36,20 @@ cd AncientPainitng2NaturalImage
 ./do_test.sh
 ```
 
-You can play with your own dataset by changing the dataroot
+You can play with your own dataset by changing the dataroot.
+
+##Citation
+If you use this code/datasets for your research, please cite our papers.
+```bash
+@inproceedings{qiao2019ancient,
+  title={Ancient Painting to Natural Image: A New Solution for Painting Processing},
+  author={Qiao, Tingting and Zhang, Weijing and Zhang, Miao and Ma, Zixuan and Xu, Duanqing},
+  booktitle={2019 IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  pages={521--530},
+  year={2019},
+  organization={IEEE}
+}
+```
 ## Acknowledgments
 Code is inspired by [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
+
