@@ -1,7 +1,7 @@
 # AncientPainitng2NaturalImage
 Pytorch implementation for the paper [[Ancient Painting to Natural Image: A New Solution for Painting Processing]](https://arxiv.org/pdf/1901.00224.pdf) .
 
-<img src="https://github.com/qiaott/AncientPainitng2NaturalImage/blob/master/images/example.jpg" width="800"/>
+![image](https://github.com/qiaott/AncientPainitng2NaturalImage/blob/master/images/example.jpg)
 
 ## Getting Started
 ### Installation
