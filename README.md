@@ -20,12 +20,10 @@ pip install dominate
 git clone https://github.com/qiaott/AncientPainitng2NaturalImage.git
 cd AncientPainitng2NaturalImage
 ```
-- Download our datasets (e.g. CBP, CFP):
-```
-The CBP, CFP, CLP datasets can be downloaded [here](https://drive.google.com/open?id=1ilqfMC3A9Kt6CaoZZCT9tI-wWRl1kLFB) .
-```
+- Download our datasets (e.g. CBP, CFP) from [here](https://drive.google.com/open?id=1ilqfMC3A9Kt6CaoZZCT9tI-wWRl1kLFB) .
 
-### train/test
+
+### Train/Test
 
 - Train a model:
 ```bash
